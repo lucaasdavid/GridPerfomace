@@ -1,0 +1,15 @@
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\bin\Debug\Grid Perfomace.exe.config
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\bin\Debug\Grid Perfomace.exe
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\bin\Debug\Grid Perfomace.pdb
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace.csproj.AssemblyReference.cache
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\MainWindow.g.cs
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\App.g.cs
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace_MarkupCompile.cache
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace_MarkupCompile.lref
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\MainWindow.baml
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace.g.resources
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid_Perfomace.Properties.Resources.resources
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace.csproj.GenerateResource.cache
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace.csproj.CoreCompileInputs.cache
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace.exe
+C:\Users\vlnote58\Desktop\WPF Traning\Grid Perfomace\obj\Debug\Grid Perfomace.pdb
