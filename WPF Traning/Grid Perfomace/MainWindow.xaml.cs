@@ -1,23 +1,13 @@
-﻿using System;
-using System.Collections;
+﻿using Grid_Perfomace.Services.Entidade;
+using Grid_Perfomace.Services.Service;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
 using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using System.Globalization;
-using System.Timers;
-using System.Diagnostics;
-using Grid_Perfomace.Componentes.Entidade;
-using Grid_Perfomace.Componentes.Service;
 
 namespace Grid_Perfomace
 {
